@@ -18,11 +18,14 @@ A customizable color picker component built using SwiftUI. This project demonstr
 - iOS 14/macOS 11 or later (for SwiftUI support)
 
 ### Output
-<img width="300" height="600" alt="Simulator Screenshot - iPhone 15 Pro Max - 2025-11-15 at 12 29 00" src="https://github.com/user-attachments/assets/327be449-f4b4-48ab-ad77-1698ae8a2f8c" />
 
-<img width="300" height="600" alt="Simulator Screenshot - iPhone 15 Pro Max - 2025-11-15 at 12 29 08" src="https://github.com/user-attachments/assets/0b285f26-35cb-4660-958e-33d4b1fcab60" />
+<p align="center">
+  <img width="300" height="600" src="https://raw.githubusercontent.com/RakeshYadavGit/ColorPicker_Using_SwiftUI/main/demo.gif" />
+  <img width="300" height="600" alt="Screenshot 1" src="https://github.com/user-attachments/assets/327be449-f4b4-48ab-ad77-1698ae8a2f8c" />
+  <img width="300" height="600" alt="Screenshot 2" src="https://github.com/user-attachments/assets/0b285f26-35cb-4660-958e-33d4b1fcab60" />
+</p>
 
-![Demo](https://raw.githubusercontent.com/RakeshYadavGit/ColorPicker_Using_SwiftUI/main/demo.gif)
+
 
 
 
